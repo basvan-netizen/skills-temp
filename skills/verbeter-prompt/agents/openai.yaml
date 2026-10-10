@@ -1,0 +1,4 @@
+interface:
+  display_name: "Verbeter prompt"
+  short_description: "Herschrijf een prompt en wacht op akkoord"
+  default_prompt: "Gebruik $verbeter-prompt om mijn vorige prompt te verbeteren. Toon eerst de nieuwe versie en wacht op mijn akkoord."
